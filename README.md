@@ -1,36 +1,46 @@
 # PengalamanBelajar
 Repository Ini Berisi Pengalaman Belajarku di Dicoding
 
-**08 September 2020**  
+**16 Juni 2021**  
 ==
-Belajar kelas Memulai Dasar Pemrograman Web. (Progres 21%) 
+Belajar kelas Memulai Architecting on AWS (Membangun Arsitektur Cloud di AWS). (Progres 21%) 
 
-  * Belajar tentang apa itu HTML dan membuat berkas.
+  * Belajar tentang apa itu Architecting on AWS.
 
-  * Pendalaman HTML : atribut HTML, membuat paragraf, membuat heading, membuat list, menambahkan list pada halaman profil.
+  * Pengenalan AWS : AWS Well-Architected Framework, Lima pilar AWS, AWS Well-Architected Lab.
   
-  * Semantik HTML
+  * AWS Global Infrastructure.
   
-  * Struktur dasar sebuah tabel.
+  * Arsitektur berskala besar.
 
-**16 September 2020**  
+**23 Juni 2021**  
 ==
-Belajar kelas Memulai Dasar Pemrograman Web. (Progres 56%)
+Belajar kelas Memulai Architecting on AWS (Membangun Arsitektur Cloud di AWS). (Progres 56%)
 
-  * Belajar pengenalan CSS : menuliskan aturan styling, melampirkan styling pada dokumen HTML.
+  * Belajar pengantar ke arsitektur tersederhana.
 
-  * Belajar pendalaman CSS : selektor basic, type selektor, class selektor, pseudo selektor.
+  * Belajar tentang amazon S3 Analytics dan Insights.
 
-  * Formatting text : memilih jenis dan ukuran font, menerapkan font styling pada halaman profil, color, floating.
+  * Memilih AWS Region untuk arsitektur anda.
   
-  **02 September 2020**  
+  * Hands-on Lab : Hosting Website Statis
+  
+  **20 Juli 2021**  
 ==
-Belajar kelas Memulai Dasar Pemrograman Web. (Progres 100%)
+Belajar kelas Memulai Architecting on AWS (Membangun Arsitektur Cloud di AWS). (Progres 100%)
 
-  * Belajar membuat layout responsif, menggunakan flexbox.
+  * Belajar AWS Identity and Access Management (IAM).
 
-  * JavaScript basic dan manipulasi DOM. 
+  * Elastisitas, Ketersediaan tinggi dan pemantauan. 
 
-  * Web Storage. 
+  * Belajar tentang automasi.
+  
+  * Belajar tentang Caching.
+  
+  * Belajar membangun decoupled architected.
+  
+  * Belajar arsitektur microservices dan serverless.
+  
+  * RTO/RPO dan backup recovery setup.  
 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.

@@ -1,28 +1,22 @@
 # PengalamanBelajar
 Repository Ini Berisi Pengalaman Belajarku di Dicoding
 
-**14 Juni 2021**
+**08 September 2020**  
 ==
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
-* Belajar tentang apa itu Java dan alasan menggunakannya.
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+Belajar kelas Memulai Dasar Pemrograman Web. (Progres 21%) 
 
-**15 Juni 2021**
-==
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
-  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
-  * Belajar tipe data koleksi, seperti list, set, dan map.
+  * Belajar tentang apa itu HTML dan membuat berkas.
 
-**20 Juni 2021**
-==
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+  * Pendalaman HTML : atribut HTML, membuat paragraf, membuat heading, membuat list, menambahkan list pada halaman profil.
+  * Semantik HTML
+  * Struktur dasar sebuah tabel.
 
-  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+**16 September 2020**  
 
-  * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
+Belajar kelas Memulai Dasar Pemrograman Web. (Progres 56%)
 
-  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
+  * Belajar pengenalan CSS : menuliskan aturanstyling, melampirkan styling pada dokumen HTML.
 
-  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+  * Belajar pendalaman CSS : selektor basic, type selektor, class selektor, pseudo selektor.
 
+  * Formatting text : memilih jenis dan ukuran font, menerpkan font styling pada halaman profil, color, floating.
